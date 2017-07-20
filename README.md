@@ -1,19 +1,19 @@
 
 # 电商网站
 
-![图片预览](![](http://oph264zoo.bkt.clouddn.com/17-7-20/6482721.jpg))
-
-👉 GitHub: https://github.com/bxm0927/e-commerce-site
-
 这是一个纯前端电商网站，使用 HTML/CSS/JS 编写页面。
 
 主要页面：首页、商品分类、商品介绍、筛选页、购物车、登陆、注册
+
+![图片预览](http://oph264zoo.bkt.clouddn.com/17-7-20/6482721.jpg)
+
 
 ## 技术栈
 
 + HTML：手写大量 HTML
 + CSS：小图片使用 CSS Sprites
 + JS：处理了 ie6Fixpng 兼容性问题等
+
 
 ## 收获
 
